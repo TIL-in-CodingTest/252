@@ -1,4 +1,4 @@
-# TIL_in_CodingTest / 252
+# 🉑 TIL-in-CodingTest/252
 코드는 커밋하고, TIL은 wiki에 차곡차곡 정리하고자 합니다!
 
 ## ✳️ File Naming Conventions
