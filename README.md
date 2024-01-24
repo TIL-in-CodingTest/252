@@ -1,4 +1,4 @@
-# 🉑 TIL-in-CodingTest/252
+# 🌀daily-problem-solving/252
 
 ### ✳️ File Naming Conventions
 * 번호_플랫폼 명_문제 이름
